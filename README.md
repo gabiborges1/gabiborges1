@@ -1,4 +1,4 @@
-<h2 style = "text-align:center"> Hello World </h2> 👋
+<p style = "text-align:center"> Hello World 👋</p> 
 
 <!--
 **gabiborges1/gabiborges1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
