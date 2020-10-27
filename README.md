@@ -1,5 +1,7 @@
 ## Hello World! I'm Gabriela 👋
 
+![](https://komarev.com/ghpvc/?username=gabiborges1&color=d5a6bd&style=plastic)
+
 <!--
 **gabiborges1/gabiborges1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
